@@ -1,0 +1,9 @@
+To build and pkg(as jar) the application
+ 	mvn clean package
+ It will automatically run the Test class.
+ and generate the jar file inside the target folder.
+ 
+ To run jar file, go to the path where the jar file is present and run the command
+  java -jar jar_file_name.jar
+ The application is started.
+ 
